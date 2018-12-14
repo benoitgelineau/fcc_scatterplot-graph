@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+.graph {
+  margin-top: 5%;
+}
+
+circle {
+  stroke: black;
+  stroke-width: 0.5px;
+}
+
+#title {
+  font-size: 24px;
+}
+
+#tooltip {
+  position: absolute;
+  text-align: left;
+  padding: 10px;
+  font: 12px sans-serif;
+  background-color: lightgreen;
+  border: 1px solid black;
+  border-radius: 8px;
+  pointer-events: none;
+}
