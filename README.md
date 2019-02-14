@@ -1,1 +1,1 @@
-# fcc_scatterplot-graph
+# Scatterplot Graph
